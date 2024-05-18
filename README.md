@@ -5,15 +5,14 @@
 Gerenciamento de tarefas com persistência de dados na LocalStorage.
 
 ### Executando aplicação
-  
-  - `npm install`
-  
-  - `npm run dev`
+
+- `npm install`
+- `npm run dev`
 
 ### Recursos utilizados
 
-  - HTML
-  - CSS
-  - React JS
-  - Vite
-  - VSCode
+- HTML
+- CSS
+- React JS
+- Vite
+- VSCode
